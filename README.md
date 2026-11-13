@@ -3,9 +3,10 @@
 Code and data for the paper:
 
 **Toward LLM-Supported Automated Assessment of Critical Thinking Subskills**  
-Marisa Peczuh, Nischal Ashok Kumar, Ryan Baker, Blair Lehman, Danielle Eisenberg, Caitlin Mills, Payu Wittawatolarn, Kushaan Naskar, Keerthi Chebrolu, Sudhip Nashi, Cadence Young, Brayden Liu, Sherry Lachman, Andrew Lan  
+Marisa Peczuh\*, Nischal Ashok Kumar\*, Ryan Baker, Blair Lehman, Danielle Eisenberg, Caitlin Mills, Payu Wittawatolarn, Kushaan Naskar, Keerthi Chebrolu, Sudhip Nashi, Cadence Young, Brayden Liu, Sherry Lachman, Andrew Lan  
+\* Joint first authors with equal contributions.  
 *Proceedings of the 19th International Conference on Educational Data Mining (EDM 2026)*, pp. 340–352  
-DOI: [10.5281/zenodo.21039869](https://doi.org/10.5281/zenodo.21039869) · arXiv: [2510.12915](https://arxiv.org/abs/2510.12915)
+Paper: [EDM 2026 Proceedings](https://educationaldatamining.org/edm2026/proceedings/2026.EDM.full-papers.174/index.html) · arXiv: [2510.12915](https://arxiv.org/abs/2510.12915)
 
 ---
 

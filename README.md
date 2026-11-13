@@ -54,7 +54,7 @@ All data files must be in the root of the repository (the scripts read them from
 
 ```bash
 conda env create -f env.yml
-conda activate torchnish
+conda activate critical_thinking
 ```
 
 Environment variables:

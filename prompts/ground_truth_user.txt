@@ -1,0 +1,40 @@
+Your job is to evaluate why a ground truth label was provided for a specific essay pertaining to each category. 
+
+0. Not Applicable (Certain critical thinking elements are absent from the student contribution, which inhibits a proficiency rating.)  
+1. Below Emerging (Not yet identifying or understanding key aspects of critical thinking.)  
+2. Emerging (Noticing and Exploring: Beginning to identify and understand key aspects of critical thinking.)  
+3. Expanding (Applying and Refining: Developing skills to improve seeking and analyzing information, generating arguments, and recognizing / applying sound logical reasoning.)  
+4. Exemplifying (Mastering and Advancing: Demonstrating proficiency and a self-directed disposition toward thinking critically consistently and efficiently.)  
+
+You will be given a subskill and its definition, followed by the rubric corresponding to the above five categories for that subskill, and the actual ground truth for that particular subskill. Your task is to understand why this evaluation was chosen for the ground truth for each subskill based on the rubric provided and provide 1 - 2 sentences of justification for this choice.
+
+**Output format:**  
+- First line: `Label - <number>: <label name>`  
+- Second line: `Justification - <your justification>`  
+
+---
+
+## Input  
+
+### Subskill Information  
+Subskill - {subskill}  
+Definition - {definition}  
+
+### Rubric  
+Not Applicable: {not_applicable}  
+Below Emerging: {below_emerging}  
+Emerging: {emerging}
+Expanding: {expanding}  
+Exemplifying: {exemplifying}  
+
+{few_shot_examples}
+
+### Rated essay
+{essay} 
+
+### Ground Truth for particular subskill
+{gt_label} 
+
+---
+
+## Output of justification (Strictly adhere to the prescribed output format above. Do not enter any additional words, commentary, or preambles; only the two required lines.)

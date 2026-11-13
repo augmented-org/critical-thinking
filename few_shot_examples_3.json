@@ -1,0 +1,158 @@
+{
+    "2.1": {
+        "not applicable": [
+            "085BDFC05337",
+            "D0DAA0A3A4EA",
+            "4195C11B8348"
+        ],
+        "below emerging": [
+            "17C688FD8337",
+            "8F1AF7F5E129",
+            "882808C92A6E"
+        ],
+        "emerging": [
+            "95AF46110F14",
+            "B5015A51C0A5",
+            "E740029E13D1"
+        ],
+        "expanding": [
+            "214BC7CE00D1",
+            "8F899DE6880E",
+            "7EA97A6ED4C7"
+        ],
+        "exemplifying": [
+            "C30B2AD4AF0A",
+            "90BC4A0EDED0",
+            "238483C3AEFC"
+        ]
+    },
+    "2.2": {
+        "not applicable": [
+            "238483C3AEFC",
+            "4E0C8B6B069B",
+            "99DD22237B48"
+        ],
+        "below emerging": [
+            "085BDFC05337",
+            "D0DAA0A3A4EA",
+            "D1400AFDC972"
+        ],
+        "emerging": [
+            "17C688FD8337",
+            "4195C11B8348",
+            "8F1AF7F5E129"
+        ],
+        "expanding": [
+            "C6B21B6E5767",
+            "21C30597D17F",
+            "D52ADC09CF36"
+        ],
+        "exemplifying": [
+            "F6CFA4C7247B",
+            "A38F35A9F711"
+        ]
+    },
+    "3.1": {
+        "not applicable": [
+            "085BDFC05337",
+            "882808C92A6E",
+            "711483807C59"
+        ],
+        "below emerging": [
+            "D0DAA0A3A4EA",
+            "4195C11B8348",
+            "CF882151082B"
+        ],
+        "emerging": [
+            "8F1AF7F5E129",
+            "F8A06DB4A5CE",
+            "F456754DA472"
+        ],
+        "expanding": [
+            "17C688FD8337",
+            "A59C88B945A3",
+            "B6C009160238"
+        ],
+        "exemplifying": [
+            "2EEE167F8C62",
+            "FB2ED8D952A6",
+            "07ECEB4E4BE1"
+        ]
+    },
+    "3.2": {
+        "not applicable": [
+            "60C9C0AC9F48",
+            "38D227AB68A0",
+            "7E3CDEFECEC6"
+        ],
+        "below emerging": [
+            "8F1AF7F5E129",
+            "CF882151082B",
+            "A59C88B945A3"
+        ],
+        "emerging": [
+            "17C688FD8337",
+            "4195C11B8348",
+            "F456754DA472"
+        ],
+        "expanding": [
+            "085BDFC05337",
+            "D0DAA0A3A4EA",
+            "882808C92A6E"
+        ],
+        "exemplifying": [
+            "07ECEB4E4BE1",
+            "BFC4CADADD49",
+            "F6CFA4C7247B"
+        ]
+    },
+    "4.1": {
+        "not applicable": [],
+        "below emerging": [
+            "085BDFC05337",
+            "8F1AF7F5E129",
+            "D1400AFDC972"
+        ],
+        "emerging": [
+            "D0DAA0A3A4EA",
+            "17C688FD8337",
+            "4195C11B8348"
+        ],
+        "expanding": [
+            "CF882151082B",
+            "2007A7232687",
+            "75D302ED4DF2"
+        ],
+        "exemplifying": [
+            "8F899DE6880E",
+            "F3454E01E31C",
+            "2EEE167F8C62"
+        ]
+    },
+    "4.2": {
+        "not applicable": [
+            "C879A485810D",
+            "BBE0D2A103B3",
+            "4E0C8B6B069B"
+        ],
+        "below emerging": [
+            "F8A06DB4A5CE",
+            "39568660BDA5",
+            "710EFFD2AFE1"
+        ],
+        "emerging": [
+            "4195C11B8348",
+            "B6C009160238",
+            "75C2D5CE58D0"
+        ],
+        "expanding": [
+            "085BDFC05337",
+            "D0DAA0A3A4EA",
+            "17C688FD8337"
+        ],
+        "exemplifying": [
+            "EFA46BC5A89A",
+            "E0CD80A39381"
+        ]
+    }
+}

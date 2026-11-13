@@ -1,0 +1,102 @@
+{
+    "2.1": {
+        "not applicable": [
+            "085BDFC05337"
+        ],
+        "below emerging": [
+            "17C688FD8337"
+        ],
+        "emerging": [
+            "95AF46110F14"
+        ],
+        "expanding": [
+            "214BC7CE00D1"
+        ],
+        "exemplifying": [
+            "C30B2AD4AF0A"
+        ]
+    },
+    "2.2": {
+        "not applicable": [
+            "238483C3AEFC"
+        ],
+        "below emerging": [
+            "085BDFC05337"
+        ],
+        "emerging": [
+            "17C688FD8337"
+        ],
+        "expanding": [
+            "C6B21B6E5767"
+        ],
+        "exemplifying": [
+            "F6CFA4C7247B"
+        ]
+    },
+    "3.1": {
+        "not applicable": [
+            "085BDFC05337"
+        ],
+        "below emerging": [
+            "D0DAA0A3A4EA"
+        ],
+        "emerging": [
+            "8F1AF7F5E129"
+        ],
+        "expanding": [
+            "17C688FD8337"
+        ],
+        "exemplifying": [
+            "2EEE167F8C62"
+        ]
+    },
+    "3.2": {
+        "not applicable": [
+            "60C9C0AC9F48"
+        ],
+        "below emerging": [
+            "8F1AF7F5E129"
+        ],
+        "emerging": [
+            "17C688FD8337"
+        ],
+        "expanding": [
+            "085BDFC05337"
+        ],
+        "exemplifying": [
+            "07ECEB4E4BE1"
+        ]
+    },
+    "4.1": {
+        "not applicable": [],
+        "below emerging": [
+            "085BDFC05337"
+        ],
+        "emerging": [
+            "D0DAA0A3A4EA"
+        ],
+        "expanding": [
+            "CF882151082B"
+        ],
+        "exemplifying": [
+            "8F899DE6880E"
+        ]
+    },
+    "4.2": {
+        "not applicable": [
+            "C879A485810D"
+        ],
+        "below emerging": [
+            "F8A06DB4A5CE"
+        ],
+        "emerging": [
+            "4195C11B8348"
+        ],
+        "expanding": [
+            "085BDFC05337"
+        ],
+        "exemplifying": [
+            "EFA46BC5A89A"
+        ]
+    }
+}

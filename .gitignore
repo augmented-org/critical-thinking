@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+wandb/
+logs*/
+*.sbatch
+
+# Outputs created by the scripts
+gpt-*_results/
+llama_results*/
+modernbert_results*/
+few_shot_example_texts*.json
